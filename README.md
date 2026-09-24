@@ -1,5 +1,7 @@
 # 🤝 Myerson-Satterthwaite – warum ehrlicher Handel nie ganz effizient ist
 
+**[→ Demo live ausprobieren](https://sebastianhanisch-myerson-satterthwaite-demo.streamlit.app/)**
+
 Zehntes und letztes Stück der **Spieltheorie-&-Mechanism-Design-Linie** der "Konzepte"-Reihe im Portfolio von
 [Sebastian Hanisch](https://sebastianhanisch.net) – Operations Research und Machine Learning, und Nachfolger von [moulin-demo](https://sebastianhanisch-moulin-demo.streamlit.app/) im zweiten Ast
 (kooperative Spieltheorie / Mechanism Design). Dort hatten mehrere Spediteure private Werte für eine gemeinsame Tour; hier stehen sich **zwei Seiten** gegenüber, und beide haben private Information.
